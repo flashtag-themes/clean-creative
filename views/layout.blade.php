@@ -32,7 +32,7 @@
 
     @include('flashtag::partials.footer')
 
-    <script src="/assets/themes/clean-creative/js/jquery.js"></script>
+    <script src="/assets/themes/clean-creative/js/jquery.min.js"></script>
     <script src="/assets/themes/clean-creative/js/bootstrap.min.js"></script>
     <script src="/assets/themes/clean-creative/js/clean-blog.min.js"></script>
     @yield('scripts')

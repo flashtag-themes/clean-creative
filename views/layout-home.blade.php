@@ -43,7 +43,7 @@
 @yield('content')
 
 <!-- jQuery -->
-<script src="/assets/themes/clean-creative/js/jquery.js"></script>
+<script src="/assets/themes/clean-creative/js/jquery.min.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/assets/themes/clean-creative/js/bootstrap.min.js"></script>
