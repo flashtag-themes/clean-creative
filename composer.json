@@ -1,0 +1,15 @@
+{
+    "name": "flashtag/theme-clean-creative",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Winchester",
+            "email": "fungku@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Flashtag\\Themes\\CleanCreative\\": "src/" }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
