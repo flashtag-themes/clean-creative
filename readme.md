@@ -4,3 +4,9 @@ This is a [Flashtag](https://github.com/flashtag) port of two themes (combined) 
 
 - [Creative](http://startbootstrap.com/template-overviews/creative/)
 - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+
+### Installation
+
+```bash
+php artisan flashtag:install-theme flashtag/theme-clean-creative
+```
