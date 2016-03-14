@@ -8,5 +8,5 @@ This is a [Flashtag](https://github.com/flashtag) port of two themes (combined) 
 ### Installation
 
 ```bash
-php artisan flashtag:install-theme flashtag/theme-clean-creative
+php artisan flashtag:install-theme flashtag-themes/clean-creative
 ```
