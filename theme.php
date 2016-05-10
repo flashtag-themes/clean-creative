@@ -4,7 +4,7 @@ return [
 
     'name' => 'clean-creative',
 
-    'version' => '0.0.1',
+    'version' => '0.0.2',
 
     'views' => __DIR__.'/views',
 
